@@ -16,8 +16,8 @@ $(document).ready(function () {
             case "Javascript":
                response = "Hice un curso muy corto por Internet sobre HTML y con eso aprendi a manejarlo de manera basica, cabe aclarar que el curso tenia pequeños proyectos que me ayudaron a entenderlo muy bien.";
               break;
-            case "Vue": "Conoci este Framework en el curso de Proyecto Integrador I, sin embargo no lo domino totalmente."
-              response = "";
+            case "Java": 
+              response = "Es el lenguaje de programación que más domino dado que lo que usado durante toda la carrera universitaria";
               break;
             case "Communication": 
               response = "Me considero una persona que puede expresar sus ideas de manera clara y concisa.";
@@ -29,7 +29,7 @@ $(document).ready(function () {
               response = "Me considero una persona creativa dado que siempre estoy pensando en maneras diferentes y mejores de hacer las cosas, incluso en las actividades mas sencillas de la vida diaria";
               break;
             case "Dedication": 
-              response = "Me considero una persona dedica dado que pongo el mayor esfuerzo en las cosas que realizo todos los dias con el fin de que queden lo mejor posible";
+              response = "Me considero una persona dedicada dado que pongo el mayor esfuerzo en las cosas que realizo todos los dias con el fin de que queden lo mejor posible";
               break;
             case "Spring": 
               response = "Este Framework basado en Java lo utilice durante un año en trabajos universitarios especificamente en las materias de Commputacion en Internet y Proyecto Integrador 2.";
