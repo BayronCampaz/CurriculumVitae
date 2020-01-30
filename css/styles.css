@@ -50,12 +50,12 @@ body {
 
 
 .basics {
-    width: 70%;
+    width: 60%;
     background-color: #01AC64;
     font-family: Raleway;
     color: white;
-    padding-left: 20px;
-    padding-bottom: 0px;  
+    padding-left: 30px;
+    padding-bottom: 10px;  
 }
 
 .profesion {
@@ -77,7 +77,7 @@ body {
 }
 
 .icons-social-media {
-  margin-top: 15px;
+  margin-top: 20px;
   width: 55px;
   height: 40px; 
   display: flex;
@@ -96,19 +96,20 @@ body {
     top: 0;
     width: 20%;
     z-index: 1;
-    right: 25%;
+    right: 35%;
     background-color: #01AC64;
     transform: skew(12deg);
 }
 
 .name {
     font-size: 30px;
+    margin-top: 50px;
     margin-bottom: 0px;
     padding-bottom: 0px;
 }
 
 .photo {
-  width: 30%;
+  width: 40%;
 }
 
 .photo img {
